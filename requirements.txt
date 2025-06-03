@@ -1,0 +1,15 @@
+# Core data science libraries
+numpy
+pandas
+scikit-learn
+xgboost
+
+# Visualization
+matplotlib
+seaborn
+
+# HTML report generation
+jinja2
+
+# SHAP explanations 
+shap

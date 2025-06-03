@@ -19,13 +19,6 @@ Data source: [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
 
 ---
 
-## How to Run
-
-```bash
-python main.py
-
----
-
 ## Project Structure
 
 ├── data/
@@ -41,3 +34,8 @@ python main.py
 ├── report/                       # Generated reports and figures
 ├── main.py                       # Pipeline entry point
 └── report_template.html          # HTML report template# clinvar-variant-classifier
+
+---
+## How to Run
+```bash
+python3 main.py

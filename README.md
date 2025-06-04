@@ -22,10 +22,10 @@ Data source: [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/)
 ## How to Run
 
 ```bash
-python main.py
-
-Project Structure
-
+python main.py 
+```
+## Project Structure
+```bash
 ├── data/
 │   └── variant_summary.txt.gz    # Input data (TSV)
 ├── src/
@@ -41,3 +41,4 @@ Project Structure
 │   ├── report_template.html      # HTML report template
 ├── report/                       # Generated reports and figures
 └── main.py                       # Pipeline entry point
+```
